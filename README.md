@@ -33,3 +33,10 @@ Rembember, you can always google "<Something> API" to discover new APIs!
 | API | Description | Auth | Type | Free limits |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ---- | ----------------------------------------------- |
 | [New York Times APIs](https://developer.nytimes.com/apis) | Various APIs for searching news articles and more | API Key | REST | |
+
+
+
+**Geo**
+| API | Description | Auth | Type | Free limits |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ---- | ----------------------------------------------- |
+| Nominatim API](https://nominatim.org/release-docs/latest/) | Free geocoding through various search terms types (city, postal code, country, etc) | None | REST | |
